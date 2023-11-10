@@ -1,6 +1,9 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Authors 
+Hailey Yarrison, Julianna Lamboy, Naina Mathur, Isabella Gangle
 
 ## Available Scripts
 
@@ -8,7 +11,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-To start the app, run 'npm start' in the terminal
+To start the app, enter file in the terminal, and run 'npm start' in the terminal : If it doesn't work, email img729@utexas.edu : I'll send you screenshots of the website
 
 # PORTFOLIO
 ## IP Project Proprosal

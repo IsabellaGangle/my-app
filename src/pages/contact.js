@@ -304,10 +304,150 @@ const Contact = () => {
         </Card.Body>
         <Card.Footer>
             <div class="text-center">
-                <a href="" class="btn btn-info" role="button">Go Now!</a>
+                <a href="https://www.aetna.com/services/care-management.html" class="btn btn-info" role="button">Go Now!</a>
             </div>
         </Card.Footer>
     </Card>
+
+    <Card>
+        <Card.Body>
+          <Card.Title>Alpha 180</Card.Title>
+          <Card.Text>
+          (1904 Nueces St, Austin, TX 78705)
+          </Card.Text>
+          <Card.Text>
+          Alpha 180 specializes in providing solutions to those afflicted with mental health and substance use challenges and the specific issues pertaining to emerging adulthood. They offer a community hub, high quality therapy, and individualized life skills support. The Alpha family of programs includes an in-network Transitional Living Program, Partial Hospitalization Program and Intensive Outpatient Programs(PHP/IOP), as well as individual therapy, group therapy, parent support groups, and individual counseling from Master’s level clinicians. 
+          </Card.Text>
+        </Card.Body>
+        <Card.Footer>
+            <div class="text-center">
+                <a href="https://www.alpha180.com/" class="btn btn-info" role="button">Go Now!</a>
+            </div>
+        </Card.Footer>
+    </Card>
+
+    <Card>
+        <Card.Body>
+          <Card.Title>ADAAP</Card.Title>
+          <Card.Text>
+          (7801 N Lamar Blvd, Austin, TX 78752)
+          </Card.Text>
+          <Card.Text>
+          ADAAP is one of the oldest addiction treatment centers in Austin, Texas. They offer hope to those suffering from addiction and their families, whether they are young or old, whether they are new to treatment or patients suffering from chronic relapses.
+          </Card.Text>
+        </Card.Body>
+        <Card.Footer>
+            <div class="text-center">
+                <a href="http://www.adaap.com/" class="btn btn-info" role="button">Go Now!</a>
+            </div>
+        </Card.Footer>
+    </Card>
+    </CardGroup>
+
+    <CardGroup>
+    <Card>
+        <Card.Body>
+          <Card.Title>Segue Recovery</Card.Title>
+          <Card.Text>
+          (5612 Grover Ave #107, Austin, TX 78756)
+          </Card.Text>
+          <Card.Text>
+          Segue Recovery sober living is one of the only sober living and monitoring providers in the U.S. to be accredited by the Joint Commission. Their certified peer recovery support specialists work alongside each client for the first 12 months of recovery. During this time, they provide case management, recovery coaching, monitoring, family engagement, and accountability for clients and their families.
+          </Card.Text>
+        </Card.Body>
+        <Card.Footer>
+            <div class="text-center">
+                <a href="https://www.brcrecovery.com/segue-recovery/" class="btn btn-info" role="button">Go Now!</a>
+            </div>
+        </Card.Footer>
+    </Card>
+
+    <Card>
+        <Card.Body>
+          <Card.Title>Any Recovery Retreat</Card.Title>
+          <Card.Text>
+          (15401 Cameron Rd, Pflugerville, TX 78660)
+          </Card.Text>
+          <Card.Text>
+          Any Length doesn’t take a typical approach to addiction services for men who are in various stages of recovery and committed to maintaining sobriety long term. They're an alternative that can provide support for those who have never sought help for an addiction as well as those who haven’t gotten the results they want from more traditional forms of addiction treatment.
+          </Card.Text>
+        </Card.Body>
+        <Card.Footer>
+            <div class="text-center">
+                <a href="https://www.anylength.net/" class="btn btn-info" role="button">Go Now!</a>
+            </div>
+        </Card.Footer>
+    </Card>
+
+    <Card>
+        <Card.Body>
+          <Card.Title>Positive Recovery Centers</Card.Title>
+          <Card.Text>
+          (4701 West Gate Blvd d404, Austin, TX 78745)
+          </Card.Text>
+          <Card.Text>
+          Positive Recovery Center offers a comprehensive menu of treatment options – ranging from Medical Detox to Residential Treatment to Sober Living – that gives them the ability to meet clients where they are and combat addiction at every stage. They embrace those fighting addiction and relapse to help create a sober, meaningful life worth living. They do this by helping clients identify their purpose.
+          </Card.Text>
+        </Card.Body>
+        <Card.Footer>
+            <div class="text-center">
+                <a href="https://positiverecovery.com/?utm_source=gbpaus" class="btn btn-info" role="button">Go Now!</a>
+            </div>
+        </Card.Footer>
+    </Card>
+    </CardGroup>
+
+    <CardGroup>
+      <Card>
+        <Card.Body>
+          <Card.Title>Texas Recovery Center</Card.Title>
+          <Card.Text>
+          (6950 Shady Ln, Scurry, TX 75158)
+          </Card.Text>
+          <Card.Text>
+          At Texas Recovery Center, their Texas addiction treatment programs provide comprehensive treatment for mental health and substance use disorders. Because no two people in treatment are the same, their Texas substance use treatment facility provides a wide range of treatment options so that each person in their care can receive the precise level of care they require for success in their recovery. The evidence-based therapy options at the rehab facility in Texas set each client up for the best chance of genuine, long-lasting recovery.
+          </Card.Text>
+        </Card.Body>
+        <Card.Footer>
+            <div class="text-center">
+                <a href="https://texasrecoverycenters.com/" class="btn btn-info" role="button">Go Now!</a>
+            </div>
+        </Card.Footer>
+      </Card>   
+
+      <Card>
+        <Card.Body>
+          <Card.Title>Mallard Lake Detox</Card.Title>
+          <Card.Text>
+          (18407 Hopfe Rd, Hockley, TX 77447)
+          </Card.Text>
+          <Card.Text>
+          Mallard Lake Detox Center with a Houston drug and alcohol rehabilitation detox facility that focuses on creating the perfect environment for transformation and healing. This remarkable, stunning property offers a sanctuary from external stressors and encourages connection with self and nature. Mallard Lake’s nature-centered treatment approach was designed to encourage holistic organic healing from addiction, trauma, and co-occurring disorders
+          </Card.Text>
+        </Card.Body>
+        <Card.Footer>
+            <div class="text-center">
+                <a href="https://mallardlakedetox.com/" class="btn btn-info" role="button">Go Now!</a>
+            </div>
+        </Card.Footer>
+      </Card>  
+
+      <Card>
+        <Card.Body>
+          <Card.Title>The Prairie Recovery Center</Card.Title>
+          <Card.Text>
+          (5808 Wagner Rd, Round Top, TX 78954)
+          </Card.Text>
+          <Card.Text>
+          The Prairie works to help individuals find long-term freedom from alcohol, substance use, and process addictions. The Prairie Recovery Center’s clients are treated with programs specific to their unique challenges. All clients are treated with compassion and respect as they work to provide the skills and experiences needed to restore hope and transform lives, showcasing that a future free from substances is not only possible, but enjoyable.
+          </Card.Text>
+        </Card.Body>
+        <Card.Footer>
+            <div class="text-center">
+                <a href="https://prairierecovery.com/" class="btn btn-info" role="button">Go Now!</a>
+            </div>
+        </Card.Footer>
+      </Card>    
     </CardGroup>
     </section>
 	);

@@ -28,11 +28,64 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.cardQuote {
+    display: flex;
+    text-align: center;
+    min-width: 50;
 }
+
+.ddText2 {
+    font-weight: bold;
+}
+
+
+.box-main1 {
+    background-color: #FFE8D6;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.text-small1 {
+    text-align: center;
+}
+
+.text-small2 {
+    line-height: 3;
+    width: 49%;
+}
+
+.text-small3 {
+    width: 49%;
+    line-height: 3;
+    text-align: right;
+
+    float: right;
+    
+}
+
+.img3 {
+    text-align: left;
+}
+.secondHalf {
+    display: flex;
+    justify-content: space-between
+}
+
+
+.ddCardText {
+    text-align: center;
+}
+
+.primary {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+
+}
+
